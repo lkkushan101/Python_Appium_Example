@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4395fa68-9988-45b1-a2d1-8ebe1f18086d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/AppiumTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test/AppiumTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for AppiumTest.ContactAppTestAppium">
+    <configuration name="Unittests for AppiumTest.ContactAppTestAppium" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AppiumTest.ContactAppTestAppium&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AppiumTest.ContactAppTestAppium.test_single_player_mode&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in AppiumTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test/AppiumTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for AppiumTest.ContactAppTestAppium" />
+        <item itemvalue="Python tests.Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" />
+        <item itemvalue="Python tests.Unittests in AppiumTest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4395fa68-9988-45b1-a2d1-8ebe1f18086d" name="Default Changelist" comment="" />
+      <created>1546036435150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546036435150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 21m 34s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 21m 37s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 22m 24s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 24m 53s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium_test_single_player_mode - 2018.12.29 at 04h 26m 09s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 32m 42s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium_test_single_player_mode - 2018.12.29 at 04h 34m 14s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium_test_single_player_mode - 2018.12.29 at 04h 35m 08s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium_test_single_player_mode - 2018.12.29 at 04h 36m 43s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium.test_single_player_mode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AppiumTest_ContactAppTestAppium - 2018.12.29 at 04h 38m 52s.xml">
+      <configuration name="Unittests for AppiumTest.ContactAppTestAppium" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24051896" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test/AppiumTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
